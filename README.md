@@ -26,6 +26,16 @@ The objective of this project is to analyze pizza sales data and build an intera
 -Analyzed the dataset using MySQL to uncover sales trends and performance metrics.
 -Developed an interactive dashboard in Excel using Pivot Tables, Charts, and Slicers.
 -Generated actionable business insights to support data-driven decision-making.
+
 ## Dashboard
 <img width="1604" height="887" alt="image" src="https://github.com/user-attachments/assets/ad7476d8-bbd6-4b0f-973e-236d2cf595cd" />
+
+## Project Insight
+-Generated $817.86K in total revenue from 21,350 orders, with an average order value of $38.31.
+-Classic pizzas emerged as the highest-performing category, while Large-sized pizzas accounted for 46% of total sales.
+-Customer demand peaked on Fridays and Saturdays, with the highest order volume recorded between 12–1 PM and 5–8 PM.
+-The Classic Deluxe Pizza was the best-selling product, whereas The Brie Carre Pizza recorded the lowest sales performance.
+
+## Final Conclusion :
+The Pizza Sales Analytics Dashboard showcases the ability to transform raw transactional data into actionable business intelligence. Through SQL-driven analysis and interactive Excel visualizations, the project delivers valuable insights into revenue, customer behavior, product performance, and sales trends.By enabling KPI monitoring and data-driven decision-making, the project demonstrates proficiency in business analysis, data visualization, SQL, and dashboard development.
 
