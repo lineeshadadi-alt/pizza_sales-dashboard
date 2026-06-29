@@ -3,7 +3,7 @@
 The objective of this project is to analyze pizza sales data and build an interactive dashboard that helps a pizza business understand its sales performance across multiple dimensions — time, product, size, and category.
 
 ## Dataset used
-<a href="https://github.com/lineeshadadi-alt/pizza_sales-dashboard/blob/main/pizza_sales%20excel%20file.xlsx">View Dashboard</a>
+<a href="https://github.com/lineeshadadi-alt/pizza_sales-dashboard/blob/main/pizza_sales%20excel%20file.xlsx">View Dataset</a>
 
 
 ## Questions (KPIs)
