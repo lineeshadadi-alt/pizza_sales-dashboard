@@ -4,3 +4,27 @@ The objective of this project is to analyze pizza sales data and build an intera
 
 ## Dataset used
 
+
+## Questions (KPIs)
+-What is the total revenue generated from pizza sales?
+-How many orders were placed during the selected period?
+-How many pizzas were sold in total?
+-What is the average order value (AOV)?
+-How many pizzas are ordered on average per transaction?
+-Which pizza categories contribute the most to total sales?
+-Which pizza sizes generate the highest revenue?
+-What are the top 5 best-selling and bottom 5 least-selling pizzas?
+-On which days and months do sales peak?
+-Which hours of the day receive the highest number of orders?
+
+-Dashboard Interaction 
+
+## Process
+-Defined business requirements and identified key performance indicators (KPIs).
+-Cleaned, validated, and prepared the sales data for accurate analysis.
+-Analyzed the dataset using MySQL to uncover sales trends and performance metrics.
+-Developed an interactive dashboard in Excel using Pivot Tables, Charts, and Slicers.
+-Generated actionable business insights to support data-driven decision-making.
+## Dashboard
+<img width="1604" height="887" alt="image" src="https://github.com/user-attachments/assets/ad7476d8-bbd6-4b0f-973e-236d2cf595cd" />
+
