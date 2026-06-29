@@ -18,7 +18,7 @@ The objective of this project is to analyze pizza sales data and build an intera
 -On which days and months do sales peak?
 -Which hours of the day receive the highest number of orders?
 
--Dashboard Interaction 
+-Dashboard Interaction <a href="https://github.com/lineeshadadi-alt/pizza_sales-dashboard/blob/main/pizzas_sales%20dashboard.png">View Dashboard</a>
 
 ## Process
 -Defined business requirements and identified key performance indicators (KPIs).
